@@ -18,7 +18,7 @@ Welcome to the Banking Application, a Java-based solution designed to simplify b
 - **Check Account Details:** Review your account details, including transaction history.
 - **Log Out:** Securely log out of the application.
 
-# Getting Started 🚀
+## Getting Started 🚀
 
 ### Prerequisites
 - Java Development Kit (JDK)
@@ -53,7 +53,7 @@ javac Main.java
 java Main
 ```
 
-# Usage 📋
+## Usage 📋
 
 Upon running the application, you’ll be presented with the following options:
 
@@ -70,10 +70,10 @@ Upon running the application, you’ll be presented with the following options:
 
 Follow the on-screen prompts to perform your desired operations.
 
-# Contributing 🤝
+## Contributing 🤝
 We welcome contributions! If you have suggestions for improvements, new features, or bug fixes, feel free to open issues or submit pull requests.
 
-# Acknowledgments 🙏
+## Acknowledgments 🙏
 Special thanks to all contributors and users of the Banking Application. Your feedback and support are invaluable!
 
 Happy banking! 🏦
